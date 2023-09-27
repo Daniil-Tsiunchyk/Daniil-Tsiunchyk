@@ -45,5 +45,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=Daniil-Tsiunchyk&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Daniil-Tsiunchyk&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniil-Tsiunchyk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-***
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/40397740/187086679-84d7cd96-4311-4454-b3c7-f44b47a2477c.svg)
